@@ -3,7 +3,6 @@ package Algorithm;
 
 
 // Karsılastırma algoritmasıdır. ilk eleman değeri ikisinden büyük ise yer değiştirir.
-
 // 3 4 2 9 1 = 1 2 3 4 9
 public class BubbleSort {
 
