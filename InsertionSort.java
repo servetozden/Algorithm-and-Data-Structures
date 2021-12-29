@@ -9,9 +9,7 @@ public class InsertionSort {
 
         Integer[] data = {1,9,6,2,3,};
         sort(data);
-
     }
-
     static void sort(Integer[] arr) {
         int i, j, newValue;
         for (i = 1; i < arr.length; i++) {
